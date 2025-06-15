@@ -9,14 +9,14 @@ ProductCode: akregator
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2211-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: C9BE4867C7F08E675E7D97C4F47417F167997C264D06D9DD45E867145EE9452F
+  InstallerUrl: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2240-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: FE48825F1D66480C0E09ACCAB02D5F781CED94DC8DC6A2554CE65AC4F5568A5D
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2211-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: C9BE4867C7F08E675E7D97C4F47417F167997C264D06D9DD45E867145EE9452F
+  InstallerUrl: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2240-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: FE48825F1D66480C0E09ACCAB02D5F781CED94DC8DC6A2554CE65AC4F5568A5D
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
